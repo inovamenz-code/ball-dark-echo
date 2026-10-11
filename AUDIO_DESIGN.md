@@ -1,5 +1,7 @@
 # BallDarkEcho Audio Design
 
+> This document retains the dated June 2026 development snapshot and design proposals. For the current portfolio overview and source-inspection limits, start with [README.md](README.md). A proposed event, RTPC or spatial-audio behaviour here is not a claim that it has been authored and verified in the released build.
+
 ## Purpose
 
 Audio is a core gameplay system in BallDarkEcho, not a presentation layer. Sound must help players locate threats, understand distance, read the arena, identify action type, and judge whether an enemy is exposed or hidden.
